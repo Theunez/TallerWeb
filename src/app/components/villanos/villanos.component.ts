@@ -22,6 +22,6 @@ export class VillanosComponent implements OnInit {
   }
   
   verVillano(id:number){
-    this._router.navigate(['/detalles',id]);
+    this._router.navigate(['/villanos',id]);
   }
 }

@@ -11,28 +11,28 @@ export class VillanoService {
         [
             {
               nombre: "Loki",
-              bio: "El poder más reconocido de Aquaman es la capacidad telepática para comunicarse con la vida marina, la cual puede convocar a grandes distancias.",
+              bio: "Dios del Engaño, su objetivo de dominar Asgard lo lleva a situarse en el bando de quien más le convenga en cada ocasión, no hay duda de que tiene un buen corazón en el fondo que lo lleva a ayudar a su hermano una y otra vez.",
               img: "assets/img/loki.png",
               aparicion: "1941-11-01",
               casa:"DC"
             },
             {
               nombre: "Nebula",
-              bio: "Los rasgos principales de Batman se resumen en «destreza física, habilidades deductivas y obsesión». La mayor parte de las características básicas de los cómics han variado por las diferentes interpretaciones que le han dado al personaje.",
+              bio: "Se nos presenta como una asesina sin escrúpulos que cumple sin rechistar las órdenes de Thanos. Nébula es una niña a la que sacaron de su hogar y torturaron durante el toda su vida. Una guerrera que, en realidad, solo quería una hermana.",
               img: "assets/img/nebula.png",
               aparicion: "1939-05-01",
               casa:"DC"
             },
             {
               nombre: "Ultron",
-              bio: "Al haber perdido la vista, los cuatro sentidos restantes de Daredevil fueron aumentados por la radiación a niveles superhumanos, en el accidente que tuvo cuando era niño. A pesar de su ceguera, puede \"ver\" a través de un \"sexto sentido\" que le sirve como un radar similar al de los murciélagos.",
+              bio: "Es una combinación retorcida de la Inteligencia Artificial de Jarvis, los conocimientos adquiridos en la red y los razonamientos del propio Iron Man, su línea de pensamiento pronto gira en sentido similar a la de Thanos y decide que, para salvar la Tierra, debe destruirla.",
               img: "assets/img/ultron.png",
               aparicion: "1964-01-01",
               casa: "Marvel"
             },
             {
-              nombre: "Hulk",
-              bio: "Su principal poder es su capacidad de aumentar su fuerza hasta niveles prácticamente ilimitados a la vez que aumenta su furia. Dependiendo de qué personalidad de Hulk esté al mando en ese momento (el Hulk Banner es el más débil, pero lo compensa con su inteligencia).",
+              nombre: "Erik Killmonger",
+              bio: "Su padre murió a manos de su propio hermano en circunstancias no del todo nobles. Desde entonces, busca vengarse de la familia y la nación que le destrozaron la vida. Es esa empuje y obstinación con reminiscencias de Íñigo Montoya lo que lo convierten en uno de los mejores villanos.",
               img: "assets/img/erik.png",
               aparicion: "1962-05-01",
               casa:"Marvel"
@@ -45,7 +45,7 @@ export class VillanoService {
               casa: "DC"
             },
             {
-              nombre: "Spider-Man",
+              nombre: "Thanos",
               bio: "Él es el hijo de Mentor y el hermano de Starfox. Thanos es uno de los villanos más poderosos de todo el Mundo Marvel y se ha enfrentado con muchos héroes, incluidos los Vengadores, los Guardianes de la Galaxia, los Cuatro Fantásticos, los X-Men, entre otros.",
               img: "assets/img/thanos.png",
               aparicion: "1962-08-01",
