@@ -52,8 +52,8 @@ export class VillanoService {
               casa: "Marvel"
             },
             {
-              nombre: "Wolverine",
-              bio: "En el universo ficticio de Marvel, Wolverine posee poderes regenerativos que pueden curar cualquier herida, por mortal que ésta sea, además ese mismo poder hace que sea inmune a cualquier enfermedad existente en la Tierra y algunas extraterrestres . Posee también una fuerza sobrehumana, que si bien no se compara con la de otros superhéroes como Hulk, sí sobrepasa la de cualquier humano.",
+              nombre: "Harley Quinn",
+              bio: "La doctora Harleen Frances Quinzel era una psiquiatra del asilo Arkham cuando se enamoró del Joker, le ayudó a escapar y se convirtió en la villana Harley Quinn.",
               img: "assets/img/harley.png",
               aparicion: "1974-11-01",
               casa: "Marvel"
