@@ -1,0 +1,12 @@
+<h1>Buscar por: <small>{{busqueda}}</small></h1>
+<hr>
+<div class="row animated fadeIn fast" *ngIf="villano.length == 0">
+    <div class="col-md-12">
+        <div class="alert alert-primary">
+            No existe resultados para su busqueda {{busqueda}}
+        </div>
+    </div>
+</div>
+<div class="card-columns">
+    <app-villano-card [villanos]="villanos" [index]="idx" *ngFor="let villanos of villano; let idx = index;"></app-villano-card>
+</div>
